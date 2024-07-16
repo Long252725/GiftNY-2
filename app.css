@@ -4,9 +4,18 @@
     color: white;
     position: absolute;
     bottom: 450px;
-    left: 270px;
+    left: 210px;
 
 }
 /* * {
     background-color: #ffff;
 } */
+
+audio {
+    /* background-color: red; */
+    width: 100px;
+    padding-left: 100px;
+    position: absolute;
+    bottom: 450px;
+    left: 630px;
+}
